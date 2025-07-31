@@ -58,7 +58,7 @@ const About = () => {
               <div className="w-full h-96 bg-gradient-to-br from-[#fdf6f0] to-[#a52a3c] rounded-2xl flex items-center justify-center">
                 
                 <img
-                  src="/public/profile1.png"  // Replace with your actual path
+                  src="/profile1.png"  // Replace with your actual path
               alt="My Photo"
                   className="h-full object-contain rounded-2xl"
                   />
