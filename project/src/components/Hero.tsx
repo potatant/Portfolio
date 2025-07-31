@@ -59,12 +59,7 @@ const Hero = () => {
             >
               <Linkedin className="w-6 h-6 text-gray-700 group-hover:text-[#800020]" />
             </a>
-            <a
-              href="antarikshadhanure@gmail.com"
-              className="p-3 bg-white border border-gray-200 rounded-full shadow-md hover:shadow-xl transition-all duration-300 hover:scale-110 group"
-            >
-              <Mail className="w-6 h-6 text-gray-700 group-hover:text-[#800020]" />
-            </a>
+           
           </div>
 
           {/* CTA Buttons */}
