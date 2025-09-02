@@ -70,7 +70,7 @@ const Footer = () => {
             <div className="space-y-4">
               <h4 className="text-lg font-semibold">Get In Touch</h4>
               <div className="space-y-2 text-gray-400">
-                <p>antarikshadhanure@gmail.com</p>
+                <p>adhanure@buffalo.edu</p>
                 <p>+1 7162928088 </p>
                 <p>Buffalo , NY</p>
               </div>
