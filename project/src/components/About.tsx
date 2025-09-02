@@ -45,9 +45,9 @@ const About = () => {
                 Hello! I'm Antariksha, a dedicated Masters student in Computer Science, with a strong interest in AI, machine learning, and data-driven technologies.
                  I’m passionate about building intelligent systems that solve real-world problems.
               </p>
-              <p className="text-lg text-gray-600 leading-relaxed">
-                 My journey into tech began during my undergraduate years, where I explored projects in machine learning, recommendation systems, and blockchain-based applications. Since then, I’ve continued to deepen my skills through academic research, internships, and personal projects that combine both analytical thinking and creative design.
-              </p>
+             //<p className="text-lg text-gray-600 leading-relaxed">
+                //My journey into tech began during my undergraduate years, where I explored projects in machine learning, recommendation systems, and blockchain-based applications. Since then, I’ve continued to deepen my skills through academic research, internships, and personal projects that combine both analytical thinking and creative design.
+              //</p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 When I'm not coding, you'll find me exploring new technologies, contributing to 
                 open source projects, or enjoying a good cup of coffee while planning my next project.
