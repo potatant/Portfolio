@@ -22,7 +22,7 @@ const Footer = () => {
     },
     {
       icon: <Mail className="w-5 h-5" />,
-      href: "mailto:antarikshadhanure@gmail.com",
+      href: "mailto:adhanure@buffalo.edu",
       label: "Email"
     }
   ];
@@ -71,7 +71,7 @@ const Footer = () => {
               <h4 className="text-lg font-semibold">Get In Touch</h4>
               <div className="space-y-2 text-gray-400">
                 <p>antarikshadhanure@gmail.com</p>
-                <p>+91 9082373051</p>
+                <p>+1 7162928088 </p>
                 <p>Buffalo , NY</p>
               </div>
             </div>
