@@ -6,14 +6,14 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: "antarikshadhanure@gmail.com",
-      link: "mailto:antarikshadhanure@gmail.com"
+      details: "adhanure@buffalo.edu",
+      link: "mailto:adhanure@buffalo.edu"
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      details: "+91 9082373051",
-      link: "tel:+919082373051"
+      details: "+1(716)-292-8088",
+      link: "tel:+17162928088"
     },
     {
       icon: <MapPin className="w-6 h-6" />,
