@@ -9,7 +9,17 @@ const Hero = () => {
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
-  };
+    };
+
+  return (
+    <button onClick={downloadResume} className="flex items-center gap-2">
+      <Download size={18} />
+      Download Resume
+    </button>
+  );
+};
+
+export default Hero;
 
   return (
     <section
