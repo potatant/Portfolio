@@ -4,8 +4,8 @@ import { Github, Linkedin, Mail, Download } from 'lucide-react';
 const Hero = () => {
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/Antariksha_Dhanure_.pdf'; // Replace with your actual resume path
-    link.download = 'Antariksha_Dhanure_.pdf';
+    link.href = '/Antariksha Dhanure.pdf'; // Replace with your actual resume path
+    link.download = 'Antariksha Dhanure.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
